@@ -5,4 +5,4 @@
 
 
 #!/bin/bash
-ALX School
+echo "ALX School"
